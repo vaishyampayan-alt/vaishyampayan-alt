@@ -138,10 +138,11 @@ Competitive Coding • Reading AI/Tech Research • Chess • Open-Source Contri
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaishyampayan-alt&show_icons=true&theme=radical&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishyampayan-alt&layout=compact&theme=radical&hide_border=true" />
-</p>
+</p> -->
+
 
 ---
 
