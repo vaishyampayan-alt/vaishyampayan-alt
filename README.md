@@ -3,13 +3,13 @@
 <p align="center">Building Intelligent Applications</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/vaishyampayan-b-725a21357">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:vaishyampayan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/vaishyampayan-alt">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -53,14 +53,35 @@
 
 ### 🧩 Core Skills
 
-| Category       | Skills                                  |
-|-----------------|------------------------------------------|
-| 🐍 Programming   | Python, SQL                              |
-| ⚡ Backend       | FastAPI, REST APIs                       |
-| 🧠 AI / LLM      | LangChain, Groq LLM, AI Agents, Prompt Engineering, Agentic AI |
-| 🎨 Frontend      | Next.js, HTML, CSS, Streamlit, Tailwind CSS |
-| 🗄️ Databases     | PostgreSQL, MongoDB                      |
-| 🔧 Tools         | Git, GitHub, Docker, Postman, VS Code    |
+**🐍 Programming**
+<br/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/> &nbsp;
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" height="28"/>
+
+**⚡ Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="40"/> &nbsp;
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" height="28"/>
+
+**🧠 AI / LLM**
+<br/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28"/> &nbsp;
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white" height="28"/> &nbsp;
+<img src="https://img.shields.io/badge/AI_Agents-6C63FF?style=flat-square&logo=openai&logoColor=white" height="28"/> &nbsp;
+<img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white" height="28"/>
+
+**🎨 Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs,html,css,tailwind" height="40"/> &nbsp;
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" height="28"/>
+
+**🗄️ Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" height="40"/>
+
+**🔧 Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" height="40"/>
 
 ---
 
@@ -118,12 +139,8 @@ Competitive Coding • Reading AI/Tech Research • Chess • Open-Source Contri
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vaishyampayan-alt&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishyampayan-alt&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -131,7 +148,3 @@ Competitive Coding • Reading AI/Tech Research • Chess • Open-Source Contri
 ### 🧠 Philosophy
 
 <p align="center"><i>"Build. Learn. Improve. Repeat."</i></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=6C63FF" />
-</p>
